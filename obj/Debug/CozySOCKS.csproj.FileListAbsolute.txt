@@ -1,0 +1,8 @@
+C:\Workspace\CozySOCKS\CozySOCKS\bin\Debug\CozySOCKS.exe.config
+C:\Workspace\CozySOCKS\CozySOCKS\bin\Debug\CozySOCKS.exe
+C:\Workspace\CozySOCKS\CozySOCKS\bin\Debug\CozySOCKS.pdb
+C:\Workspace\CozySOCKS\CozySOCKS\obj\Debug\CozySOCKS.csproj.AssemblyReference.cache
+C:\Workspace\CozySOCKS\CozySOCKS\obj\Debug\CozySOCKS.csproj.SuggestedBindingRedirects.cache
+C:\Workspace\CozySOCKS\CozySOCKS\obj\Debug\CozySOCKS.csproj.CoreCompileInputs.cache
+C:\Workspace\CozySOCKS\CozySOCKS\obj\Debug\CozySOCKS.exe
+C:\Workspace\CozySOCKS\CozySOCKS\obj\Debug\CozySOCKS.pdb
