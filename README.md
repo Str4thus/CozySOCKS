@@ -1,2 +1,2 @@
 # SOCKS4a Proxy in C#
-- Heavliy inspired by the blog of [@_RastaMouse](https://twitter.com/_rastamouse): https://rastamouse.me/socks4a-proxy-in-csharp/
+Heavliy based on [@_RastaMouse](https://twitter.com/_rastamouse)'s SOCKS4 proxy [blog post](https://rastamouse.me/socks4a-proxy-in-csharp/) and related code snippets of [SharpC2](https://github.com/rasta-mouse/SharpC2) 
